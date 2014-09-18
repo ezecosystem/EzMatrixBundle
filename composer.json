@@ -1,0 +1,14 @@
+{
+    "name": "blend/ez-matrix-bundle",
+    "description": "Bundle to work with eZ Matrix in eZ 5.*",
+    "license": "GNU LGPL v.3.0",
+    "authors": [
+        {
+            "name": "Joe Kepley",
+            "email": "joe@blendinteractive.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Blend\\EzMatrixBundle\\": "" }
+    }
+}
